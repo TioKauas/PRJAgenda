@@ -1,0 +1,12 @@
+D:\Projetos C#\PRJAgenda\PRJAgenda\bin\Debug\PRJAgenda.exe.config
+D:\Projetos C#\PRJAgenda\PRJAgenda\bin\Debug\PRJAgenda.exe
+D:\Projetos C#\PRJAgenda\PRJAgenda\bin\Debug\PRJAgenda.pdb
+D:\Projetos C#\PRJAgenda\PRJAgenda\obj\Debug\PRJAgenda.csproj.AssemblyReference.cache
+D:\Projetos C#\PRJAgenda\PRJAgenda\obj\Debug\PRJAgenda.csproj.SuggestedBindingRedirects.cache
+D:\Projetos C#\PRJAgenda\PRJAgenda\obj\Debug\PRJAgenda.Cadastro.resources
+D:\Projetos C#\PRJAgenda\PRJAgenda\obj\Debug\PRJAgenda.Form1.resources
+D:\Projetos C#\PRJAgenda\PRJAgenda\obj\Debug\PRJAgenda.Properties.Resources.resources
+D:\Projetos C#\PRJAgenda\PRJAgenda\obj\Debug\PRJAgenda.csproj.GenerateResource.cache
+D:\Projetos C#\PRJAgenda\PRJAgenda\obj\Debug\PRJAgenda.csproj.CoreCompileInputs.cache
+D:\Projetos C#\PRJAgenda\PRJAgenda\obj\Debug\PRJAgenda.exe
+D:\Projetos C#\PRJAgenda\PRJAgenda\obj\Debug\PRJAgenda.pdb
