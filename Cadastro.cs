@@ -13,12 +13,14 @@ namespace PRJAgenda
 {
     public partial class Cadastro : Form
     {
+        public  bool Clicou = false;
+
         public Cadastro()
         {
             InitializeComponent();
         }
 
-        private void btnSalvarTarefa_Click(object sender, EventArgs e)
+        public void btnSalvarTarefa_Click(object sender, EventArgs e)
         {
             #region Verificação dos campos
             if (txtTitulo.Text == "" || txtDescricao.Text == "")
@@ -33,6 +35,15 @@ namespace PRJAgenda
                 return;
             }
             #endregion
+
+            #region Captação de dados
+            Settings.Default["Titulo"] = txtTitulo.Text.Trim();
+            Settings.Default["Descricao"] = txtDescricao.Text.Trim();
+            Settings.Default["dataInicio"] = dateDataI.Value;
+            Settings.Default["dataFinal"] = dateDataF.Value;
+            #endregion
+
+            Clicou = true;
         }
 
         private void btnLimparCampos_Click(object sender, EventArgs e)
